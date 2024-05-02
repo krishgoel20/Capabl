@@ -28,7 +28,7 @@ sns.set_style('whitegrid')
 # In[13]:
 
 
-df_train = pd.read_csv(r"C:\Users\Vipin Goel\Desktop\Dataset\train.csv",nrows=200000,parse_dates=["pickup_datetime"])
+df_train = pd.read_csv(r"C:\Users\Krish\Desktop\Dataset\train.csv",nrows=200000,parse_dates=["pickup_datetime"])
 
 
 # # Data Exploration
